@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hello World 🌏, I am Pratik Barhate.
+### Hello World 🌏, I am Pratik Barhate.
+
+I am currently a graduate student for the Master of Science degree in Computer Science (MSCS) at Arizona State University. I have two years of industry experience in building large-scale data pipelines as a Data Engineer/Data Science Engineer and have a strong understanding of the methods to accelerate the Big Data workloads based on partitioning methods and file formats used.
+
+Looking for full-time opportunities starting 28 June 2021.
+
+#### Publications
+
+_Lachesis: Automatic Partitioning for UDF-Centric Analytics._ Co-authored under the supervision of Dr. Jia Zou. **Accepted for publication at VLDB 2021**
