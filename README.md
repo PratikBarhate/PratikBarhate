@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello World 🌏, I am Pratik Barhate.
 
-I am currently a graduate student for the Master of Science degree in Computer Science `(Aug 2018 - May 2021)` (`MSCS`) at `Arizona State University`. I have two years of `industry` experience `(June 2018 - July 2021)` in building large-scale data pipelines as a Data Engineer/Data Science Engineer and have a strong understanding of the methods to accelerate the `Big Data` workloads based on partitioning methods and file formats used.
+I am currently a graduate student for the Master of Science degree in Computer Science `(Aug 2018 - May 2021)` (`MSCS`) at `Arizona State University`. I have two years of `industry` experience `(June 2017 - July 2019)` in building large-scale data pipelines as a Data Engineer/Data Science Engineer and have a strong understanding of the methods to accelerate the `Big Data` workloads based on partitioning methods and file formats used.
 
 Looking for full-time opportunities starting 28 June 2021.
 
