@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### Hello World 🌏, I am Pratik Barhate.
 
-I am currently a graduate student for the Master of Science degree in Computer Science `(Aug 2018 - May 2021)` (`MSCS`) at `Arizona State University`. I have two years of `industry` experience `(June 2017 - July 2019)` in building large-scale data pipelines as a Data Engineer/Data Science Engineer and have a strong understanding of the methods to accelerate the `Big Data` workloads based on partitioning methods and file formats used.
+I am currently looking for Software/Data Engineer full-time opportunities. My professional details can be found on [LinkedIn](https://www.linkedin.com/in/pratik-barhate)
 
-Looking for full-time opportunities starting 28 June 2021.
+#### Technical Skills
 
-#### Publications
-
-_Lachesis: Automatic Partitioning for UDF-Centric Analytics._ Co-authored under the supervision of Dr. Jia Zou. **Accepted for publication at VLDB 2021**
+**Programming Languages:** `Scala`, `Python`, Java, C++
+**Tools and Technologies:** `Apache Spark`, Hadoop, Hive, `SQL`, RDBMS, NumPy, Pandas, `spaCy`, Spring Boot, Hibernate, Scikit-learn, PyTorch
+**Topics:** Object Oriented Programming, Functional Programming, `Data Engineering`, Machine Learning, RESTful, RPC
