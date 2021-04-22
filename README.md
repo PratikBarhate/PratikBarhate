@@ -21,6 +21,8 @@ I am currently looking for Software/Data Engineer full-time opportunities. My pr
 
 #### Technical Skills
 
-**Programming Languages:** `Scala`, `Python`, Java, C++
-**Tools and Technologies:** `Apache Spark`, Hadoop, Hive, `SQL`, RDBMS, NumPy, Pandas, `spaCy`, Spring Boot, Hibernate, Scikit-learn, PyTorch
-**Topics:** Object Oriented Programming, Functional Programming, `Data Engineering`, Machine Learning, RESTful, RPC
+*Programming Languages:* `Scala`, `Python`, Java, C++
+
+*Tools and Technologies:* `Apache Spark`, Hadoop, Hive, `SQL`, RDBMS, NumPy, Pandas, `spaCy`, Spring Boot, Hibernate, Scikit-learn, PyTorch
+
+*Topics:* Object Oriented Programming, Functional Programming, `Data Engineering`, Machine Learning, RESTful, RPC
