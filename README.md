@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hello World 🌏, I am Pratik Barhate.
 
-I am currently looking for Software/Data Engineer full-time opportunities. My professional details can be found on [LinkedIn](https://www.linkedin.com/in/pratik-barhate). I have two years of industry experience in building large-scale data pipelines as a Data Engineer/Data Science Engineer with a strong understanding of the methods to accelerate the Big Data workloads based on partitioning methods and file formats used. Proficient in optimizing `Spark SQL` and `MLlib` workloads.
+My professional details can be found on [LinkedIn](https://www.linkedin.com/in/pratik-barhate).
