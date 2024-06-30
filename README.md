@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Hello World 🌏, I am Pratik Barhate.
 
-My professional details can be found on [LinkedIn](https://www.linkedin.com/in/pratik-barhate) and few small blogs on [Medium](https://medium.com/@pratikbarhate)
+My professional details can be found on [LinkedIn](https://www.linkedin.com/in/pratik-barhate), and I have posted a few technology blogs on [Medium](https://medium.com/@pratikbarhate)
 
